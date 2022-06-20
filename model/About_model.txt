@@ -1,0 +1,1 @@
+In this folder you will find two pickled files, one contains the model and the other contains the features required by the model
